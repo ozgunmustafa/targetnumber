@@ -5,4 +5,5 @@ Oyunu kazanmak için yapmanız gereken sistemin sayısıyla kendi sayınızı ar
 Bunu yapmak için 9 hakkınızın olduğunu da unutmamanız gerekiyor. 
 
 Oynamak için:(http://ozgunmustafa.me/works/targetnumber/index.html)
+</br>
 İyi Eğlenceler :)
